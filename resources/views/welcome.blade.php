@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Coldzera
+                    Coldzeras
                 </div>
 
                 <div class="links">
